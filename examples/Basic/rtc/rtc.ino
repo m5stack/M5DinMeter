@@ -3,7 +3,7 @@
  * @author SeanKwok (shaoxiang@m5stack.com)
  * @brief M5DinMeter RTC SNTP Test
  * @version 0.1
- * @date 2023-09-26
+ * @date 2024-03-07
  *
  *
  * @Hardwares: M5DinMeter

@@ -10,6 +10,12 @@
     "type": "git",
     "url": "https://github.com/m5stack/M5DinMeter.git"
   },
+  "dependencies": [
+    {
+      "name": "M5Unified",
+      "version": ">=0.1.13"
+    }
+  ],
   "version": "1.0.0",
   "frameworks": [
     "arduino"

@@ -2,8 +2,8 @@
  * @file encoder.ino
  * @author SeanKwok (shaoxiang@m5stack.com)
  * @brief M5DinMeter Encoder Test
- * @version 0.2
- * @date 2023-10-18
+ * @version 0.1
+ * @date 2024-03-07
  *
  *
  * @Hardwares: M5DinMeter
