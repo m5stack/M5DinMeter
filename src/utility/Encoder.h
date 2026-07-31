@@ -49,7 +49,7 @@
 #define PIN_TO_BITMASK(pin)         (digitalPinToBitMask(pin))
 #define DIRECT_PIN_READ(base, mask) (((*(base)) & (mask)) ? 1 : 0)
 
-#define CORE_NUM_INTERRUPT 40
+#define CORE_NUM_INTERRUPT 42
 #define CORE_INT0_PIN      0
 #define CORE_INT1_PIN      1
 #define CORE_INT2_PIN      2
@@ -78,6 +78,8 @@
 #define CORE_INT35_PIN 35
 #define CORE_INT36_PIN 36
 #define CORE_INT39_PIN 39
+#define CORE_INT40_PIN 40
+#define CORE_INT41_PIN 41
 
 #endif
 
