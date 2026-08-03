@@ -20,7 +20,7 @@ class M5DinMeter {
     M5GFX &Display         = M5.Display;
     M5GFX &Lcd             = Display;
     Power_Class &Power     = M5.Power;
-    RTC8563_Class &Rtc     = M5.Rtc;
+    RTC_Class &Rtc         = M5.Rtc;
     Speaker_Class &Speaker = M5.Speaker;
     Button_Class &BtnA     = M5.BtnA;
 

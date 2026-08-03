@@ -13,7 +13,7 @@
   "dependencies": [
     {
       "name": "M5Unified",
-      "version": ">=0.1.13"
+      "version": ">=0.2.9"
     }
   ],
   "version": "1.0.0",
